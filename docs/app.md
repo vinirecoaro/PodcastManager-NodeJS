@@ -17,8 +17,9 @@ Video podcasts
 List podcasts episodes within caterogries sessions
 
 ### How to implement:
-Will return within an Rest API (json) the podcast name, episode name, video link, cover image and category
+GET: return episodes list
 
+response:
 ```js
 {
     podcastName: "flow",
