@@ -5,7 +5,6 @@
   "directories": {
     "doc": "docs"
   },
-  "type": "module",
   "scripts": {
     "start:dev": "tsx --env-file=.env src/server.ts",
     "start:watch": "tsx watch --env-file=.env src/server.ts",

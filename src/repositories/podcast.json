@@ -1,12 +1,26 @@
-[{
-    "podcastName": "flow",
-    "episode": "Ramon DINO foi supreendido e PERDEU O TÍTULO",
-    "videoid": "CUdQTF-yueg",
-    "categorias": ["healthy", "bodybuilder", "sport"]
-},
-{
-    "podcastName": "flow",
-    "episode": "GUTO GALAMBA - Flow #366",
-    "videoid": "ymJ0K76DeU4",
-    "categorias": ["healthy", "bodybuilder"]
-}]
+[
+    {
+        "podcastName": "flow",
+        "episode": "Ramon DINO foi supreendido e PERDEU O TÍTULO",
+        "videoid": "CUdQTF-yueg",
+        "categorias": ["healthy", "bodybuilder", "sport"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "GUTO GALAMBA - Flow #366",
+        "videoid": "ymJ0K76DeU4",
+        "categorias": ["healthy", "bodybuilder"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "Vinicius Recoaro - Flow #366",
+        "videoid": "ymJ054sdfs6DeU4",
+        "categorias": ["healthy", "bodybuilder"]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "xuxa",
+        "videoid": "ymJ054sdfs6DeU4",
+        "categorias": ["healthy", "bodybuilder"]
+    }
+]

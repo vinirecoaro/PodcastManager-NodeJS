@@ -39,4 +39,5 @@ response:
 }
 ```
 
+GET: return filtered episodes list, it receives a filter of type string 
 
