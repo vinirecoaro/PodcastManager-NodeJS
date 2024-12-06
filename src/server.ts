@@ -3,8 +3,10 @@ import { app } from "./app";
 
 const server = http.createServer(app)
 
-const port = process.env.PORT
+const port = parseInt(process.env.PORT || "3000", 10)
 
-server.listen(port, () => {
+const host = "0.0.0.0"
+
+server.listen(port, host, () => {
     console.log(`Servidor iniciado na porta ${port}`)
 })
