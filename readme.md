@@ -91,7 +91,7 @@ podcast-manager/
 
    ```bash
    git clone https://github.com/vinirecoaro/PodcastManager-NodeJS.git
-   cd podcast-manager
+   cd PodcastManager
    ```
 
 2. Install dependencies:
