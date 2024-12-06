@@ -22,5 +22,101 @@
         "episode": "xuxa",
         "videoid": "ymJ054sdfs6DeU4",
         "categorias": ["healthy", "bodybuilder"]
+    },
+    {
+        "podcastName": "inteligencia",
+        "episode": "A vida no espaço - Ep. #200",
+        "videoid": "A1B2C3D4E5F",
+        "categorias": ["science", "space"]
+    },
+    {
+        "podcastName": "inteligencia",
+        "episode": "Como funciona o cérebro - Ep. #201",
+        "videoid": "F5E4D3C2B1A",
+        "categorias": ["science", "health"]
+    },
+    {
+        "podcastName": "nerdcast",
+        "episode": "História do Japão - Parte 1",
+        "videoid": "G6H7I8J9K0L",
+        "categorias": ["history", "culture"]
+    },
+    {
+        "podcastName": "nerdcast",
+        "episode": "A Física do Impossível",
+        "videoid": "L0K9J8I7H6G",
+        "categorias": ["science", "technology"]
+    },
+    {
+        "podcastName": "ciencia",
+        "episode": "O mistério dos buracos negros",
+        "videoid": "Z1X2C3V4B5N",
+        "categorias": ["space", "science"]
+    },
+    {
+        "podcastName": "ciencia",
+        "episode": "Vida em Marte: Realidade ou Ficção?",
+        "videoid": "N5B4V3C2X1Z",
+        "categorias": ["space", "science"]
+    },
+    {
+        "podcastName": "esporte",
+        "episode": "Os maiores jogadores da história",
+        "videoid": "A9B8C7D6E5F",
+        "categorias": ["sport", "history"]
+    },
+    {
+        "podcastName": "esporte",
+        "episode": "Estratégias do futebol moderno",
+        "videoid": "F5E6D7C8B9A",
+        "categorias": ["sport", "analysis"]
+    },
+    {
+        "podcastName": "tecnologia",
+        "episode": "A revolução da IA",
+        "videoid": "H1J2K3L4M5N",
+        "categorias": ["technology", "AI"]
+    },
+    {
+        "podcastName": "tecnologia",
+        "episode": "Como os algoritmos controlam nossas vidas",
+        "videoid": "N5M4L3K2J1H",
+        "categorias": ["technology", "AI"]
+    },
+    {
+        "podcastName": "historia",
+        "episode": "O Império Romano: Glória e Decadência",
+        "videoid": "P1Q2R3S4T5U",
+        "categorias": ["history", "culture"]
+    },
+    {
+        "podcastName": "historia",
+        "episode": "As Grandes Navegações",
+        "videoid": "U5T4S3R2Q1P",
+        "categorias": ["history", "exploration"]
+    },
+    {
+        "podcastName": "saude",
+        "episode": "Como manter uma alimentação equilibrada",
+        "videoid": "X1Y2Z3A4B5C",
+        "categorias": ["health", "nutrition"]
+    },
+    {
+        "podcastName": "saude",
+        "episode": "A importância do sono para o corpo",
+        "videoid": "C5B4A3Z2Y1X",
+        "categorias": ["health", "lifestyle"]
+    },
+    {
+        "podcastName": "educacao",
+        "episode": "Métodos de estudo eficazes",
+        "videoid": "V1W2X3Y4Z5A",
+        "categorias": ["education", "productivity"]
+    },
+    {
+        "podcastName": "educacao",
+        "episode": "A importância da leitura na infância",
+        "videoid": "A5Z4Y3X2W1V",
+        "categorias": ["education", "childhood"]
     }
 ]
